@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:/Eclipse/gradle-1.10-all/gradle-1.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/HelloAndroidWithMenus" />
+            <option value="$PROJECT_DIR$/UIAlertDialog" />
+            <option value="$PROJECT_DIR$/UIAutoComplete" />
+            <option value="$PROJECT_DIR$/UIButton" />
+            <option value="$PROJECT_DIR$/UICheckBox" />
+            <option value="$PROJECT_DIR$/UIDatePicker" />
+            <option value="$PROJECT_DIR$/UIGallery" />
+            <option value="$PROJECT_DIR$/UIGoogleMaps" />
+            <option value="$PROJECT_DIR$/UIGridLayout" />
+            <option value="$PROJECT_DIR$/UILinearLayout" />
+            <option value="$PROJECT_DIR$/UIListView" />
+            <option value="$PROJECT_DIR$/UIRadioGroup" />
+            <option value="$PROJECT_DIR$/UIRatingsBar" />
+            <option value="$PROJECT_DIR$/UIRelativeLayout" />
+            <option value="$PROJECT_DIR$/UISampler" />
+            <option value="$PROJECT_DIR$/UISpinner" />
+            <option value="$PROJECT_DIR$/UITabLayout" />
+            <option value="$PROJECT_DIR$/UITableLayout" />
+            <option value="$PROJECT_DIR$/UITimePicker" />
+            <option value="$PROJECT_DIR$/UIToggleButton" />
+            <option value="$PROJECT_DIR$/UIWebView" />
+            <option value="$PROJECT_DIR$/google-play-services_lib" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
+

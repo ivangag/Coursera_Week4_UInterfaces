@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Coursera_Week 4_UInterfaces.iml" filepath="$PROJECT_DIR$/Coursera_Week 4_UInterfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloAndroidWithMenus/HelloAndroidWithMenus.iml" filepath="$PROJECT_DIR$/HelloAndroidWithMenus/HelloAndroidWithMenus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UIAlertDialog/UIAlertDialog.iml" filepath="$PROJECT_DIR$/UIAlertDialog/UIAlertDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UIAutoComplete/UIAutoComplete.iml" filepath="$PROJECT_DIR$/UIAutoComplete/UIAutoComplete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UIButton/UIButton.iml" filepath="$PROJECT_DIR$/UIButton/UIButton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UICheckBox/UICheckBox.iml" filepath="$PROJECT_DIR$/UICheckBox/UICheckBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UIDatePicker/UIDatePicker.iml" filepath="$PROJECT_DIR$/UIDatePicker/UIDatePicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UIGallery/UIGallery.iml" filepath="$PROJECT_DIR$/UIGallery/UIGallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UIGoogleMaps/UIGoogleMaps.iml" filepath="$PROJECT_DIR$/UIGoogleMaps/UIGoogleMaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UIGridLayout/UIGridLayout.iml" filepath="$PROJECT_DIR$/UIGridLayout/UIGridLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UILinearLayout/UILinearLayout.iml" filepath="$PROJECT_DIR$/UILinearLayout/UILinearLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UIListView/UIListView.iml" filepath="$PROJECT_DIR$/UIListView/UIListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UIRadioGroup/UIRadioGroup.iml" filepath="$PROJECT_DIR$/UIRadioGroup/UIRadioGroup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UIRatingsBar/UIRatingsBar.iml" filepath="$PROJECT_DIR$/UIRatingsBar/UIRatingsBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UIRelativeLayout/UIRelativeLayout.iml" filepath="$PROJECT_DIR$/UIRelativeLayout/UIRelativeLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UISampler/UISampler.iml" filepath="$PROJECT_DIR$/UISampler/UISampler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UISpinner/UISpinner.iml" filepath="$PROJECT_DIR$/UISpinner/UISpinner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UITabLayout/UITabLayout.iml" filepath="$PROJECT_DIR$/UITabLayout/UITabLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UITableLayout/UITableLayout.iml" filepath="$PROJECT_DIR$/UITableLayout/UITableLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UITimePicker/UITimePicker.iml" filepath="$PROJECT_DIR$/UITimePicker/UITimePicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UIToggleButton/UIToggleButton.iml" filepath="$PROJECT_DIR$/UIToggleButton/UIToggleButton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UIWebView/UIWebView.iml" filepath="$PROJECT_DIR$/UIWebView/UIWebView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/google-play-services_lib/google-play-services_lib.iml" filepath="$PROJECT_DIR$/google-play-services_lib/google-play-services_lib.iml" />
+    </modules>
+  </component>
+</project>
+
